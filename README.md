@@ -9,7 +9,7 @@ Os dados utilizados são **fictícios** e servem apenas para **demonstração de
 ## 🔗 Demo
 
 Acesse a demo da aplicação:
-👉 [SOON LINK WILL BE HERE](#)
+👉 [https://renda-fixa-dashboard-demo.streamlit.app/](https://renda-fixa-dashboard-demo.streamlit.app/)
 
 > ⚠️ Não representa recomendações de investimento nem deve ser usado para decisões reais.
 
